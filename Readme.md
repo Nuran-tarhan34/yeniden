@@ -12,6 +12,8 @@ git init
 git add .
 git commit -m "add message"
 git push -u origin master
+git clone https://github.com/Nuran-tarhan34/yeniden.git
+
 ```
 ---
 ## Java Core
