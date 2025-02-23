@@ -4,7 +4,31 @@
 [Intellij Idea Community](https://www.jetbrains.com/idea/download/?section=windows)
 [Git](https://git-scm.com/downloads )
 
-'''sh
-'''
 
+## Git
+
+```sh
+git init
+git add .
+git commit -m "add message"
+git push -u origin master
+```
+---
+## Java Core
+
+```sh
+
+
+
+
+```
+---
+## Java Core
+
+```sh
+
+
+
+
+```
 ---
